@@ -1,6 +1,7 @@
 # ![logo](https://raw.githubusercontent.com/wakatime/wakaq/main/wakatime-logo.png "WakaQ") WakaQ
 
 [![wakatime](https://wakatime.com/badge/github/wakatime/wakaq.svg)](https://wakatime.com/badge/github/wakatime/wakaq)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fwakaq.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fwakaq?ref=badge_shield)
 
 Background task queue for Python backed by Redis, a super minimal Celery.
 Read about the motivation behind this project on [this blog post][blog launch] and the accompanying [Hacker News discussion][hacker news].
@@ -240,3 +241,7 @@ Then in dev and test environments instead of using `wakaq.WakaQ` use `WakaQMock`
 [hacker news]: https://news.ycombinator.com/item?id=32730038
 [wakaq-ts]: https://github.com/wakatime/wakaq-ts
 [asyncio]: https://docs.python.org/3/library/asyncio.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fwakaq.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fwakaq?ref=badge_large)
